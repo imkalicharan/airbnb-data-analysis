@@ -1,4 +1,4 @@
-# airbnb-data-analysis
+<h1>Global Airbnb Performance Analysis</h1>
 <h2>Overview</h2>
 An interactive two-page Power BI dashboard analyzing global hotel listings, property rental trends, and customer satisfaction across 279,712 hotel listings in 10 major cities using a global Airbnb performance dataset. This project uncovers year-over-year market patterns, pricing behavior, occupancy trends, and guest experience insights to support data-driven decisions for property rental companies, real estate advisors, and hospitality businesses operating in the global market.
 <br>
@@ -32,30 +32,27 @@ An interactive two-page Power BI dashboard analyzing global hotel listings, prop
 <li>DAX (Data Analysis Expressions)</li>
 <li>Power Query for data transformation</li>
 <li>Custom DAX measures for calculations</li>
-
-
-Dataset
-Global Airbnb Performance — Maven Analytics
-2,79,712 listings and 53+ lakhs reviews
-20+ fields including property location, property type, room types in detailed, price, customer ratings, cleanliness, communication, values and more.
-City: Bangkok, Cape Town, Hong Kong, Istanbul, Mexico City, New York, Paris, Rio de Janeiro, Rome, Sydney.
-Room Types: Entire room, Hotel room, Private room, Shared room.
-
-
-
-
-Dashboard Features
-Page 1 — Overview:
-5 KPI cards — Total Listings, Total Cities, Total Hosts, Property Types, Total Reviews. 
-Total Listings vs Year by Year up-downfall
-All room types growth performance from 2008 to 2020
-Page 2 — Ratings Analysis:
-Market share by cities divided into Superhost and No Superhost listings with Cumulative%
-Average price of all room types across all cities
-Avg rating with calculated score of all cities
-
-
-Screenshots
+<br>
+<h2>Dataset</h2>
+<li>Global Airbnb Performance — Maven Analytics</li>
+<li>2,79,712 listings and 53+ lakhs reviews</li>
+<li>20+ fields including property location, property type, room types in detailed, price, customer ratings, cleanliness, communication, values and more.</li>
+<li>City: Bangkok, Cape Town, Hong Kong, Istanbul, Mexico City, New York, Paris, Rio de Janeiro, Rome, Sydney.</li>
+<li>Room Types: Entire room, Hotel room, Private room, Shared room.</li>
+<br>
+<h2>Dashboard Features</h2>
+<h4>Page 1 — Overview:</h4>
+<li>5 KPI cards — Total Listings, Total Cities, Total Hosts, Property Types, Total Reviews.</li>
+<li>Total Listings vs Year by Year up-downfall</li>
+<li>All room types growth performance from 2008 to 2020</li>
+<br>
+<h4>Page 2 — Ratings Analysis:</h4>
+<li>Market share by cities divided into Superhost and No Superhost listings with Cumulative%</li>
+<li>Average price of all room types across all cities</li>
+<li>Avg rating with calculated score of all cities</li>
+<br>
+<h2>Screenshots</h2>
+<img src="F:\Official 2026\Projects\Global Airbnb Performance Analysis.png"
 
 
 
