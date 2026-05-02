@@ -52,7 +52,9 @@ An interactive two-page Power BI dashboard analyzing global hotel listings, prop
 <li>Avg rating with calculated score of all cities</li>
 <br>
 <h2>Screenshots</h2>
-<img src="F:\Official 2026\Projects\Global Airbnb Performance Analysis.png"
+<img src="GAPA1.png" alt="Power BI Dashboard">
+<br>
+<img src="GAPA2.png" alt="Power BI Dashboard">
 
 
 
